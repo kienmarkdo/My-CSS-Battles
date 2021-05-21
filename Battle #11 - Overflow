@@ -1,0 +1,44 @@
+<main id="background">
+  <section id="rectangle"></section>
+  <section id="circle-dark-blue"></section>
+  <section id="circle-light-blue"></section>
+</main>
+
+
+<style>
+  #background {
+    height: 110%;
+    width: 110%;
+    margin-top: -10px;
+    margin-left:-10px;
+    background: #19191A;
+    position: absolute;
+  }
+  #rectangle {
+    height: 124px;
+    width: 75px;
+    margin-left: 130px;
+    margin-top: 127px;
+    background: #F9E492;
+    position: absolute;
+  }
+  #circle-dark-blue {
+    height: 150px;
+    width: 150px;
+    background: #4F77FF;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 130px;
+    border-radius: 100%;
+  }
+  #circle-light-blue {
+    height: 75px;
+    width: 75px;;
+    background: #9AD5FF;
+    position: absolute;
+    margin-top: 126px;
+    margin-left: 130px;
+    
+    border-bottom-left-radius: 100%;
+  }
+</style>
