@@ -1,7 +1,8 @@
 # My-CSS-Battles
 A record of my work on CSS-Battles (https://cssbattle.dev/). I perform these challenges as a way to practice, strengthen and improve my HTML/CSS skills. View my results below!
 
-### My Solutions
+## My Solutions
+<hr>
 
 - Battle #11 - Overflow | Target #53 Pastel Logo
   - [Code](./src/target53.html)
