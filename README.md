@@ -12,5 +12,5 @@ A record of my work on CSS-Battles (https://cssbattle.dev/). I perform these cha
   - [View](/src/target14.md)
 - Battle #12 - Blend | Target #61 ImprovMX
   - [View](/src/target61.md)
-- Battle #13 - Clip | Target$69 PushOwl
+- Battle #13 - Clip | Target #69 PushOwl
   - [View](/src/target69.md)
