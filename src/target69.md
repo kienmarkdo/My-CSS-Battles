@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/67518620/119278731-22ca5880-bbf5-11eb-8c2d-bb5a7684e52f.png)
+![image](https://user-images.githubusercontent.com/67518620/119408603-fcb7bd80-bcb3-11eb-843f-d6aaf9d4210d.png)
 
 
 ```html
@@ -9,6 +9,8 @@
   <div class="black-circle"></div>
   <div class="orange-rectangle"></div>
   <div class="orange-pupil"></div>
+  <!-- nose -->
+  <div id="nose"></div>
   <!-- left eye -->
   <div class="orange-rectangle" id="left-eye-border"></div>
   <div class="black-circle" id="left-iris"></div>
@@ -18,9 +20,6 @@
   <div class="orange-rectangle" id="right-eye-border"></div>
   <div class="black-circle" id="right-iris"></div>
   <div class="orange-pupil" id="right-pupil"></div>
-  <!-- nose -->
-  <div id="nose"></div>
-  
   
   <!-- ======  CSS style  ====== -->
   <style>
@@ -61,15 +60,6 @@
       transform: translate(122px, 117px);
       border-bottom: 0;
     }
-    /* nose */
-    #nose {
-      position: absolute;
-      height: 69px;
-      width: 69px;
-      background: #E08027;
-      transform: translate(157px, 132px) rotate(-45deg);
-      z-index: -1;
-    }
     /* right eye */
     #circle-under-eye {
       height: 135px;
@@ -92,6 +82,14 @@
       border: 10px solid #E08027;
       transform: translate(232px, 117px);
       border-bottom: 0;
+    }
+    /* nose */
+    #nose {
+      position: absolute;
+      height: 69px;
+      width: 69px;
+      background: #E08027;
+      transform: translate(157px, 132px) rotate(-45deg);
     }
     
     
