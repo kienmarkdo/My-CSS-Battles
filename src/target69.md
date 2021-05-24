@@ -92,7 +92,6 @@
       transform: translate(157px, 132px) rotate(-45deg);
     }
     
-    
   </style>
 </body>
 <html>
