@@ -1,7 +1,7 @@
 # My-CSS-Battles
 A record of my work on CSS-Battles (https://cssbattle.dev/). I perform these challenges as a way to practice, strengthen and improve my HTML/CSS skills. View my results below!
 
-## My Solutions
+## My Solutions (most recent at the bottom)
 
 - Battle #11 - Overflow | Target #53 Pastel Logo
   - [Code](./src/target53.html)
@@ -14,5 +14,7 @@ A record of my work on CSS-Battles (https://cssbattle.dev/). I perform these cha
   - [View](/src/target61.md)
 - Battle #13 - Clip | Target #69 PushOwl
   - [View](/src/target69.md)
-- Battle #14 - ZIndex | Target #77 Notes
+- Battle #14 - ZIndex | Target #77 Notes <!-- flex -->
   - [View](/src/target77.md)
+- Battle #8 - Transition | Target #44 Stripes <!-- repeating-linear-gradient -->
+  - [View](/src/target44.md)
