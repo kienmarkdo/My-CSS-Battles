@@ -22,3 +22,5 @@ A record of my work on CSS-Battles (https://cssbattle.dev/). I perform these cha
   - [View](/src/target70.md)
 - Battle #5 - Inline | Target #29 Suffocate <!-- webkit -->
   - [View](/src/target29.md)
+- Battle #3 - Cursor | Target #19 Cube <!-- webkit and "parallelograms" -->
+  - [View](/src/target19.md)
