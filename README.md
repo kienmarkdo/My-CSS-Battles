@@ -20,3 +20,5 @@ A record of my work on CSS-Battles (https://cssbattle.dev/). I perform these cha
   - [View](/src/target44.md)
 - Battle #13 - Clip | Target #70 Froggy <!-- webkit and radial gradient -->
   - [View](/src/target70.md)
+- Battle #5 - Inline | Target #29 Suffocate <!-- webkit -->
+  - [View](/src/target29.md)
