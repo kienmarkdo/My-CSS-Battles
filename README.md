@@ -18,3 +18,5 @@ A record of my work on CSS-Battles (https://cssbattle.dev/). I perform these cha
   - [View](/src/target77.md)
 - Battle #8 - Transition | Target #44 Stripes <!-- repeating-linear-gradient -->
   - [View](/src/target44.md)
+- Battle #13 - Clip | Target #70 Froggy <!-- webkit and radial gradient -->
+  - [View](/src/target70.md)
